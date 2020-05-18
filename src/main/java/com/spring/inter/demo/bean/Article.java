@@ -1,6 +1,7 @@
 package com.spring.inter.demo.bean;
 
 //import javax.persistence.Column;
+import javax.persistence.GeneratedValue;
 import javax.persistence.*;
 import java.io.Serializable;
 
